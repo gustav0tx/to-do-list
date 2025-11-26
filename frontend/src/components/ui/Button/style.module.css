@@ -1,0 +1,14 @@
+.myButton{
+    padding: 10px 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+    background-color: rgb(1, 1, 101);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: ease 0.5s all;
+}
+.myButton:hover{
+    transform: scale(1.05, 1.05);
+    background-color: rgb(37, 37, 198);
+}

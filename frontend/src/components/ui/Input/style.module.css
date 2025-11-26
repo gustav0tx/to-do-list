@@ -1,0 +1,12 @@
+.myLabel{
+    font-weight: 500;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.myInput{
+    outline: none;
+    padding: 4px 10px;
+    border: 1px solid rgb(150, 149, 149);
+    border-radius: 5px;
+    font-family: sans-serif;
+}
